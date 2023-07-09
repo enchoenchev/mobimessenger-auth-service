@@ -1,0 +1,21 @@
+# Other
+node_modules
+package-lock.json
+.DS_Store
+
+# Environment
+.env
+
+# Logs
+*.log
+*.gz
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
